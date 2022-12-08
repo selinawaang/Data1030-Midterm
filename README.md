@@ -9,3 +9,18 @@ The dataset used for this project is the replication data for the research paper
 Because each athlete’s data will theoretically have a different distribution, to simplify this project, I only used data from one athlete to train a model that would predict injury for that single athlete, this gives a total of 730 datapoints.
 
 I trained 4 different models: Logistic Regression, Random Forest Classifier, SVC and KNN. The most predictive model is Logistic Regression, which gives a mean F_2 score of 0.506 (0.5 standard deviations avobe baseline).
+
+## Python and Package Versions:
+Python version 3.10.5\
+numpy version 1.22.4\
+matplotlib version 3.5.2\
+sklearn version 1.1.1\
+pandas version 1.4.2\
+xgboost version 1.5.1\
+shap version 0.40.0
+
+Refer to yaml file
+
+
+## License:
+
