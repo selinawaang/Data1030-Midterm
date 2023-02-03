@@ -6,7 +6,7 @@ The goal of this project is to predict whether an athlete will get injured on a 
 
 I trained 4 different models: Logistic Regression, Random Forest Classifier, SVC and KNN. The most predictive model is Logistic Regression, which gives a mean F_2 score of 0.506 (0.5 standard deviations avobe baseline).
 
-Please refer to the [final project report](https://github.com/selinawaang/Injury-Prediction-for-Distance-Running-Athletes/tree/main/report) for more details.
+Please refer to the [final project report](https://github.com/selinawaang/Injury-Prediction-for-Distance-Running-Athletes/tree/main/report), and the [code file](https://github.com/selinawaang/Injury-Prediction-for-Distance-Running-Athletes/blob/main/src/running%20injury%20prediction%20one%20athlete.ipynb) for more details.
 
 ## Python and Package Versions:
 Python version 3.10.5\
